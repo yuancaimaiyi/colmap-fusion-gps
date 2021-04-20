@@ -1,6 +1,5 @@
 # colmap-fusion-gps
 colmap fusion gps ,reduce drift !
----
 this is original colmap run forward-facing data,scale drift !!!!!!!!!!!!!!!!!!
 ![image](https://github.com/yuancaimaiyi/colmap-fusion-gps/blob/main/1.png)
 ---
