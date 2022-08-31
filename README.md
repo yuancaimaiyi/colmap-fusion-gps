@@ -2,7 +2,7 @@
 colmap fusion gps ,reduce drift !
 ---
 this is original colmap run forward-facing data,scale drift !!!!!!!!!!!!!!!!!!    
-实现需要补充的代码部分：  
+实现需要补充的代码部分（用仓库里面的代码replace下面目录即可，注意代码里面的变量要自己找个地方定义）：    
 bundle_adjustment.cc 是在src/optim 目录下    
 incremental_mapper.cc 是在src/sfm 目录下    
 cost_functions.h 是在src/base 目录下   
