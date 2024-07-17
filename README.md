@@ -1,4 +1,6 @@
 # colmap fusion gps   
+![image](https://github.com/user-attachments/assets/9048cd7b-ad1c-4988-b9bf-3d0c366e99ca)
+
 3年多前colmap fusion gps 完整代码，二期课程代码会基于这个branch   
 （1） feature scale 定权加入BA   
 ![image](https://github.com/user-attachments/assets/0ee4f4e2-1ad9-4e41-b4be-d8e8e238cbbc)
