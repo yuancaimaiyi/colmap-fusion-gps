@@ -1,4 +1,11 @@
 # colmap fusion gps   
+## Completion: Improved COLMAP   
+- [x] colmap fusion gps ,reduce drift (Completion in 2021)   
+- [x] feature scale determines the weight of BA   
+- [x] multi-data, such as depth and distance constrained BA   
+- [x] IDWM for two-view triangulation  
+- [x] Panoramic data splitting code   
+- [x]  Added panoramic camera model  
 ![image](https://github.com/user-attachments/assets/9048cd7b-ad1c-4988-b9bf-3d0c366e99ca)
 
 3年多前colmap fusion gps 完整代码，二期课程代码会基于这个branch   
