@@ -1,11 +1,14 @@
 # colmap fusion gps   
-## Completion: Improved COLMAP   
-- [x] colmap fusion gps ,reduce drift (Completion in 2021)   
-- [x] feature scale determines the weight of BA   
-- [x] multi-data, such as depth and distance constrained BA   
-- [x] IDWM for two-view triangulation  
-- [x] Panoramic data splitting code   
-- [x]  Added panoramic camera model  
+## <span style="color: red;">Completion and Annotations : Improved COLMAP</span>  
+- [x] <span style="color: red;">colmap fusion gps ,reduce drift (Completion in 2021)</span>    
+- [x] <span style="color: red;">feature scale determines the weight of BA</span>   
+- [x] <span style="color: red;">multi-data, such as depth and distance constrained BA</span>   
+- [x] <span style="color: red;">IDWM for two-view triangulation</span>     
+- [x] <span style="color: red;">Panoramic data splitting code</span>     
+- [x] <span style="color: red;">Added panoramic camera model</span>   
+- [x] <span style="color: red;">learned-feature sfm builds long-term map</span>
+- [x] <span style="color: red;">Map localization based on SIFT</span>   
+- [ ] <span style="color: red;">There will be more improvements later, and these are just the tip of the iceberg I showed (my motto is that explaining the source code is meaningless, only improvements are valuable work, long live photogrammetry!)</span>  
 ![image](https://github.com/user-attachments/assets/9048cd7b-ad1c-4988-b9bf-3d0c366e99ca)
 
 3年多前colmap fusion gps 完整代码，二期课程代码会基于这个branch   
