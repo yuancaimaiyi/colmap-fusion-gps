@@ -1,6 +1,6 @@
 # colmap fusion gps   
 ## <span style="color: red;">Completion and Annotations : Improved COLMAP</span>  
-- [x] <span style="color: red;">colmap fusion gps ,reduce drift (Completion in 2021)</span>    
+- [x] <span style="color: red;">colmap fusion gps ,reduce drift (Submitted in 2021)</span>    
 - [x] <span style="color: red;">feature scale determines the weight of BA</span>   
 - [x] <span style="color: red;">multi-data, such as depth and distance constrained BA</span>   
 - [x] <span style="color: red;">IDWM for two-view triangulation</span>     
