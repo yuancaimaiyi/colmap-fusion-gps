@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Wall -O3 -march=native -std=c++11  -shared -Wl,-soname,libOpenMVG.so -o libOpenMVG.so CMakeFiles/OpenMVG.dir/src/image_io.cpp.o CMakeFiles/OpenMVG.dir/src/numeric.cpp.o CMakeFiles/OpenMVG.dir/src/colmap_reader.cpp.o  -ltiff -lpng -lz -ljpeg third_party/stlplus3/libopenMVG_stlplus.a 
