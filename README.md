@@ -4,7 +4,7 @@
 - [x] <span style="color: red;">feature scale determines the weight of BA</span>   
 - [x] <span style="color: red;">multi-data, such as depth and distance constrained BA</span>   
 - [x] <span style="color: red;">IDWM for two-view triangulation</span>     
-- [x] <span style="color: red;">Panoramic data splitting code</span>     
+- [x] <span style="color: red;">Panoramic data splitting code (branch:postprocess_panorama)</span>     
 - [x] <span style="color: red;">Added panoramic camera model</span>   
 - [x] <span style="color: red;">learned-feature sfm builds long-term map</span>
 - [x] <span style="color: red;">Map localization based on SIFT</span>   
